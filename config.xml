@@ -1,7 +1,6 @@
 <?xml version='1.0' encoding='utf-8'?>
 <!--suppress HttpUrlsUsage -->
-<widget id="io.cordova.hellocordova" version="1.0.0" xmlns="http://www.w3.org/ns/widgets"
->
+<widget id="io.cordova.hellocordova" version="1.0.0" xmlns="http://www.w3.org/ns/widgets">
   <name>HelloCordova</name>
   <description>Sample Apache Cordova App</description>
   <author email="dev@cordova.apache.org" href="https://cordova.apache.org">
